@@ -1,4 +1,13 @@
-   // "Person" class
+/**
+ * Class: 2150 ITEC
+ * * @author D'Quavious Browner
+ * * @version 1.0
+ * * Course: ITEC 2150 Fall 2024
+ * * Written: feb 12, 2024
+ * *
+ * * This class
+ */
+// "Person" class
 public class Person {
     //instance variables
     private String name;
@@ -33,7 +42,7 @@ public class Person {
         return eyeColor;
     }
 
-    // Setters "4"
+    // Setters "3"
     public void setName(String name) {
         this.name = name;
     }

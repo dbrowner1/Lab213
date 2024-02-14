@@ -1,3 +1,12 @@
+/**
+ * Class: 2150 ITEC
+ * * @author D'Quavious Browner
+ * * @version 1.0
+ * * Course: ITEC 2150 Fall 2024
+ * * Written: feb 12, 2024
+ * *
+ * * This class
+ */
 import java.util.ArrayList;
 public class Bike {
     //instance variables
